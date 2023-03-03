@@ -1,0 +1,3 @@
+Next Steps:
+
+Will deploy through FastAPI and use the current framework and automatic documentation from FastAPI to deploy
